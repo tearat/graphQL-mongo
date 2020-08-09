@@ -1,0 +1,17 @@
+{
+  "name": "graphql-test",
+  "version": "1.0.0",
+  "description": "graphql template",
+  "main": "index.js",
+  "scripts": {
+    "server_watch": "cd server && npm run watch",
+    "front_watch": "cd front && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tearat/graphQL-mongo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
